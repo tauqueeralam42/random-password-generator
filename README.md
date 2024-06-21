@@ -60,5 +60,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any questions or suggestions, feel free to reach out.
 
 - GitHub: [tauqueeralam42](https://github.com/tauqueeralam42)
-- Email: your-email@example.com
+- Email: tauqueeralam42@gmail.com
 
